@@ -1,1 +1,10 @@
-//css  file for Site A
+body {
+    background-color:grey;}
+h1{color:rgb(0,255,255);}
+#Economics {
+    background-color:darkseagreen;
+}
+#studioart{background-color:mediumpurple}
+#politics {background-color:beige}
+#computerscience {background-color:orangered}
+#mathematics {background-color:darksalmon}
