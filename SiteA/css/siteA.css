@@ -1,10 +1,55 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono&display=swap');
 body {
     background-color:grey;}
-h1{color:rgb(0,255,255);}
+h1{ 
+    font-family: 'Roboto Mono', monospace;
+    color:rgb(0,255,255); 
+    font-size: 78px;
+}
 #Economics {
     background-color:darkseagreen;
 }
-#studioart{background-color:mediumpurple}
-#politics {background-color:beige}
-#computerscience {background-color:orangered}
-#mathematics {background-color:darksalmon}
+#studioart {
+    background-color: mediumpurple;
+}
+#politics { 
+    background-color:beige;
+}
+#computerscience { 
+    background-color:orangered; 
+}
+#mathematics { 
+    background-color:darksalmon; 
+}
+p{
+    color:white;
+    font-size:30px;
+        text-shadow: 
+            -1px -1px 0 #000,
+		1px -1px 0 #000,
+		-1px 1px 0 #000,
+		1px 1px 0 #000;
+    
+}
+ul{
+    font-family: 'Roboto Mono', monospace;
+    color:rebeccapurple;
+    text-decoration: none;
+}
+ 
+
+body{
+    background-repeat:no-repeat; 
+    background-image: url(../colonel.png);
+        background-position: center;
+}
+table, th, td {
+      padding: 10px;
+      border: 5px solid black; 
+      border-collapse: collapse;
+      }
+img {
+  width: 100px;
+ 
+
+}
