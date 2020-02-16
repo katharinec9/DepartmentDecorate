@@ -1,10 +1,60 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Lacquer|Roboto+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Anton&display=swap');
 body {
     background-color:grey;}
-h1{color:rgb(0,255,255);}
-#Economics {
-    background-color:darkseagreen;
+h1{ 
+   font-family: 'Anton', sans-serif;
+    color:rgb(8,200,200); 
+    font-size: 78px;
 }
-#studioart{background-color:mediumpurple}
-#politics {background-color:beige}
-#computerscience {background-color:orangered}
-#mathematics {background-color:darksalmon}
+#Economics {
+    background-color:lightgoldenrodyellow;
+}
+#studioart {
+    background-color: lightgoldenrodyellow;
+}
+#politics { 
+    background-color:lightgoldenrodyellow;
+}
+#computerscience { 
+    background-color:lightgoldenrodyellow
+}
+#mathematics { 
+    background-color:lightgoldenrodyellow; 
+}
+p{
+    color:white;
+    font-size:30px;
+        text-shadow: 
+            -1px -1px 0 #000,
+		1px -1px 0 #000,
+		-1px 1px 0 #000,
+		1px 1px 0 #000;
+    font-family: 'Roboto Mono', monospace;
+font-family: 'Lacquer', sans-serif;
+    
+}
+ul{
+    font-family: 'Roboto Mono', monospace;
+    color:rebeccapurple;
+    text-decoration:overline;
+}
+ 
+
+body{
+    background-repeat:no-repeat; 
+    background-image: url(../colonel.png);
+        background-position: center;
+}
+table, th, td {
+      padding: 10px;
+      border: 5px solid black; 
+      border-collapse: collapse;
+    border-style: dotted
+      }
+img {
+  width: 100px;
+ 
+
+}
