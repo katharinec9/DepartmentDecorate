@@ -1,8 +1,10 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto+Mono&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Lacquer|Roboto+Mono&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Anton&display=swap');
+
 body {
-    background-color:grey;}
+    background-color:grey;
+}
 h1{ 
    font-family: 'Anton', sans-serif;
     color:rgb(8,200,200); 
@@ -38,14 +40,14 @@ font-family: 'Lacquer', sans-serif;
 ul{
     font-family: 'Roboto Mono', monospace;
     color:rebeccapurple;
-    text-decoration:overline;
+    text-decoration:none;
 }
  
 
 body{
     background-repeat:no-repeat; 
     background-image: url(../colonel.png);
-        background-position: center;
+        background-position:center;
 }
 table, th, td {
       padding: 10px;
