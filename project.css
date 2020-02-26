@@ -1,20 +1,21 @@
 @import url('https://fonts.googleapis.com/css?family=Odibee+Sans&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Orbitron&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Pacifico&display=swap');
+
  
 body
 {
- font-family:'Pacifico', ;
+font-family: 'Pacifico';
   margin:0;
   background-color:lightblue;
 }
 h1 {
- font-family: 'Pacifico', ;
+ font-family: 'Pacifico';
   font-size:50px;
 }
 .nav a
 {background-color: darkkhaki;
-  font-family: 'Pacifico', ;
+  font-family: 'Pacifico';
   margin:10px;
   margin-top:20px;
   padding:10px;
