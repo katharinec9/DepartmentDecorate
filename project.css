@@ -22,6 +22,7 @@ h1 {
   border:10px;
   border-width:7px;
   border-style:solid;
+ border-radius:50px;
   border-color:black;
   float:left;
 }
@@ -37,7 +38,7 @@ h1 {
     border:10px;
     border-width:7px;
     border-style:solid;
-   border-radius:25px;
+   border-radius:50px;
     border-color: black;
 }
   .header {
