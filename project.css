@@ -40,6 +40,12 @@ h1 {
     border-style:solid;
    border-radius:50px;
     border-color: black;
+   styledimg {
+background-image: url https://www.bing.com/th?id=OIP.7voGnubySJkOcjmHmV9emwHaG-&pid=Api&rs=1;
+background-repeat: no-repeat;
+width: 10px;
+height: 20px;
+}
 }
   .header {
     background-color: plum;
