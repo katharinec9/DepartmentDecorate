@@ -11,6 +11,7 @@ font-family: 'Pacifico';
  background-image: url(https://pngimg.com/uploads/frozen/frozen_PNG97.png);
  background-postion:right;
  background-attachment:fixed;
+ background-repeat:no-repeat;
  
 }
 h1 {
