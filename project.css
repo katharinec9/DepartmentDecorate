@@ -8,7 +8,7 @@ body
 font-family: 'Pacifico';
   margin:0;
   background-color:lightblue;
- background-image: url(https://pngimg.com/uploads/frozen/frozen_PNG97.png), url(https://pngimg.com/uploads/frozen/frozen_PNG14.png);
+ background-image: url(https://pngimg.com/uploads/frozen/frozen_PNG97.png), url(https://pngimg.com/uploads/frozen/frozen_PNG52.png);
  background-attachment:fixed;
  background-position:right, top left;
  background-repeat:no-repeat;
@@ -59,7 +59,7 @@ h1 {
     padding-bottom: 20px;
     text-align: center;
     z-index: 10;
-  background-image: url(https://pngimg.com/uploads/frozen/frozen_PNG97.png), url(https://pngimg.com/uploads/frozen/frozen_PNG14.png);
+  background-image: url(https://pngimg.com/uploads/frozen/frozen_PNG97.png), url(https://pngimg.com/uploads/frozen/frozen_PNG52.png);
  background-attachment:fixed;
  background-position:right, top left;
  background-repeat:no-repeat;
