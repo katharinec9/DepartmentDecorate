@@ -58,9 +58,11 @@ h1 {
     padding-bottom: 20px;
     text-align: center;
     z-index: 10;
-  
-    background-attachment:fixed;
-   background-size:100px;
+  background-image: url(https://pngimg.com/uploads/frozen/frozen_PNG97.png);
+ background-attachment:fixed;
+ background-position:right;
+ background-repeat:no-repeat;
+   
    
  
 }
