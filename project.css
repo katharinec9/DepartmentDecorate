@@ -60,11 +60,11 @@ h1 {
     padding-bottom: 20px;
     text-align: center;
     z-index: 10;
-  background-image: url(https://pngimg.com/uploads/frozen/frozen_PNG97.png), url(https://pngimg.com/uploads/frozen/frozen_PNG52.png);
+  background-image: url(https://pngimg.com/uploads/frozen/frozen_PNG97.png), url(https://pngimg.com/uploads/frozen/frozen_PNG52.png), url(https://pngimg.com/uploads/snowflakes/snowflakes_PNG7535.png);
  background-attachment:fixed;
  background-position:right, top left;
- background-repeat:no-repeat;
-   background-size:auto, 800px;
+ background-repeat:no-repeat, no-repeat, repeat;
+ background-size: auto, 800px, 100px;
    
    
  
